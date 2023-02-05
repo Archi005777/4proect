@@ -1,0 +1,15 @@
+/Users/arturarutunan/Projects/4PROECT/4PROECT/bin/Debug/net6.0/4PROECT
+/Users/arturarutunan/Projects/4PROECT/4PROECT/bin/Debug/net6.0/4PROECT.deps.json
+/Users/arturarutunan/Projects/4PROECT/4PROECT/bin/Debug/net6.0/4PROECT.runtimeconfig.json
+/Users/arturarutunan/Projects/4PROECT/4PROECT/bin/Debug/net6.0/4PROECT.dll
+/Users/arturarutunan/Projects/4PROECT/4PROECT/bin/Debug/net6.0/4PROECT.pdb
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/4PROECT.csproj.AssemblyReference.cache
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/4PROECT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/4PROECT.AssemblyInfoInputs.cache
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/4PROECT.AssemblyInfo.cs
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/4PROECT.csproj.CoreCompileInputs.cache
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/4PROECT.dll
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/refint/4PROECT.dll
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/4PROECT.pdb
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/4PROECT.genruntimeconfig.cache
+/Users/arturarutunan/Projects/4PROECT/4PROECT/obj/Debug/net6.0/ref/4PROECT.dll
